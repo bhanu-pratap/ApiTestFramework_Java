@@ -1,0 +1,23 @@
+Name,VMID,HostID,HostName,Power State,Guest OS,No of VPCU,CPU Cycles Ghz,No of vDisks,MemoryGB,Storage Allocated GB,Storage Used GB,Guest State,App
+CORE-GW,vm-64,host-55,Host Name,poweredOff,Other 2.6.x Linux (64-bit),1,2.294,1,0.375,2.53,2.0002057515084743499755859375,notRunning,null
+CORE-VMA01,vm-63,host-55,Host Name,poweredOff,Other 2.6.x Linux (32-bit),2,4.588,2,2.0,8.16,0.525961718522012233734130859375,notRunning,null
+CORE-PODCON,vm-57,host-55,Host Name,poweredOff,CentOS 4/5/6/7 (64-bit),8,18.352,1,16.0,151.45,94.855562013573944568634033203125,notRunning,null
+gw075coastl,vm-65,host-55,Host Name,poweredOff,Other 2.6.x Linux (64-bit),1,2.294,1,0.375,2.53,2.00001537241041660308837890625,notRunning,null
+CAR-SHIPPING,vm-36,host-55,Host Name,poweredOn,Microsoft Windows Server 2012 (64-bit),1,2.294,1,4.0,71.6,19.8319843299686908721923828125,running,null
+CORE-AMS,vm-62,host-55,Host Name,poweredOff,Microsoft Windows Server 2012 (64-bit),2,4.588,1,4.0,64.17,23.89068641699850559234619140625,notRunning,null
+CAR-INVENTORY,vm-35,host-55,Host Name,poweredOn,Microsoft Windows Server 2008 R2 (64-bit),1,2.294,1,4.0,80.0,40.871961281634867191314697265625,running,null
+CAR-WEBAPP,vm-38,host-55,Host Name,poweredOn,CentOS 4/5/6/7 (64-bit),1,2.294,1,2.0,20.01,4.42031116783618927001953125,running,null
+075coast-oak01-asn01l,vm-31,host-27,Host Name,poweredOn,Microsoft Windows Server 2012 (64-bit),4,9.196,2,8.0,601.01,471.4100850112736225128173828125,running,null
+CLOUD-ASN,vm-61,host-55,Host Name,poweredOff,Microsoft Windows Server 2012 (64-bit),2,4.588,2,8.0,569.16,88.51168290711939334869384765625,notRunning,null
+CLOUD-AMS,vm-60,host-55,Host Name,poweredOff,Microsoft Windows Server 2012 (64-bit),2,4.588,1,4.0,64.16,24.71552329324185848236083984375,notRunning,null
+CAR-ACCOUNTING,vm-33,host-55,Host Name,poweredOn,Microsoft Windows Server 2008 R2 (64-bit),1,2.294,1,4.0,108.79,33.9735945649445056915283203125,running,null
+075coast-oak01-vma01,vm-44,host-27,Host Name,poweredOn,Other 2.6.x Linux (32-bit),2,4.598,3,2.0,114.77,29.73376540839672088623046875,running,null
+075coast-oak01-lchm,vm-32,host-27,Host Name,poweredOn,Other 2.6.x Linux (64-bit),3,6.897,2,4.0,140.0,10.127610693685710430145263671875,running,null
+CAR-ADMIN,vm-18,host-55,Host Name,poweredOn,Microsoft Windows Server 2012 (64-bit),4,9.176,1,8.0,80.01,57.2471005581319332122802734375,running,null
+NAGI,vm-24,host-55,Host Name,poweredOn,CentOS 4/5/6/7 (64-bit),1,2.294,1,1.0,0.0,0,notRunning,null
+CAR-DOMAIN,vm-17,host-10,Host Name,poweredOn,Microsoft Windows Server 2012 (64-bit),1,1.995,1,4.0,100.01,16.581600557081401348114013671875,running,null
+CAR-INVENTORY-1466699205018_warm_dr,vm-258,host-27,Host Name,poweredOff,Microsoft Windows Server 2008 R2 (64-bit),1,2.299,1,4.0,118.3,34.14567054808139801025390625,notRunning,null
+CAR-WEBAPP-1466699245013_warm_dr,vm-257,host-27,Host Name,poweredOff,Other (32-bit),1,2.299,1,2.0,42.44,19.649015867151319980621337890625,notRunning,null
+CAR-SHIPPING-1466699225012_warm_dr,vm-256,host-27,Host Name,poweredOff,Microsoft Windows Server 2012 (64-bit),1,2.299,1,4.0,78.24,13.442931785248219966888427734375,notRunning,null
+CAR-ACCOUNTING-1466699165019_warm_dr,vm-255,host-27,Host Name,poweredOff,Microsoft Windows Server 2008 R2 (64-bit),1,2.299,1,4.0,107.8,23.0064160414040088653564453125,notRunning,null
+075coast-oak01-vma02,vm-237,host-55,Host Name,poweredOn,Other 2.6.x Linux (32-bit),2,4.588,2,4.0,6.0,0.667078669182956218719482421875,running,null

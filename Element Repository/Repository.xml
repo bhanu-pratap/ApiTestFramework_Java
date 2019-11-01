@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+  <Element name="SearchTextBox">
+    <param type="XPATH" value="//input[@title='earch']"/>
+    <param type="ID" value="lt-ib"/>
+  </Element>
+  
+  <Element name="GoogleSearchButton">
+    <param type="XPATH" value="//input[@value='Google Search']"/>
+ 
+  </Element>
+   <Element name="Feeling Lucky Button">
+    <param type="XPATH" value="//input[contains(@value,'Feeling Lucky')]"/>   
+   </Element>
+     
+   <Element name="GmailLink">
+    <param type="LINKTEXT" value="Gmail"/>
+  </Element>
+  
+     <Element name="IMDbRating">
+    <param type="XPATH" value="//a[@title='IMDb']/parent::span/preceding-sibling::*"/>
+  </Element>
+  
+     <Element name="RottenTomatoesRating">
+    <param type="XPATH" value="//a[@title='Rotten Tomatoes']/parent::span/preceding-sibling::*"/>
+  </Element>
+  <Element name = "YourPackage">
+    
+    <param type="XPATH" value=".//*[@id='multi_city"/>
+    <param type="ID" value=".//*[@id='package']"/>
+    <param type="LINKTEXT" value="Build your own package"/>
+    
+    </Element>
+ </Elements>

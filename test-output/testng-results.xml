@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3160" started-at="2016-09-30T13:35:58Z" finished-at="2016-09-30T13:36:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3160" started-at="2016-09-30T13:35:58Z" finished-at="2016-09-30T13:36:01Z">
+      <class name="com.afour.automation.scripts.TestGetOnPremiseCostByHypervisorId_GetAPI_TC8">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.afour.automation.scripts.TestGetOnPremiseCostByHypervisorId_GetAPI_TC8@24642b28]" name="init" is-config="true" duration-ms="15" started-at="2016-09-30T19:05:58Z" finished-at="2016-09-30T19:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="tests()[pri:0, instance:com.afour.automation.scripts.TestGetOnPremiseCostByHypervisorId_GetAPI_TC8@24642b28]" name="tests" is-config="true" duration-ms="10" started-at="2016-09-30T19:05:58Z" finished-at="2016-09-30T19:05:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tests -->
+        <test-method status="PASS" signature="setTestName(java.lang.reflect.Method)[pri:0, instance:com.afour.automation.scripts.TestGetOnPremiseCostByHypervisorId_GetAPI_TC8@24642b28]" name="setTestName" is-config="true" duration-ms="1" started-at="2016-09-30T19:05:58Z" finished-at="2016-09-30T19:05:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.afour.automation.scripts.TestGetOnPremiseCostByHypervisorId_GetAPI_TC8.testGetOnPremiseCostByHypervisorId() throws java.lang.Exception,org.apache.http.client.ClientProtocolException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setTestName -->
+        <test-method status="PASS" signature="testGetOnPremiseCostByHypervisorId()[pri:0, instance:com.afour.automation.scripts.TestGetOnPremiseCostByHypervisorId_GetAPI_TC8@24642b28]" name="testGetOnPremiseCostByHypervisorId" duration-ms="3122" started-at="2016-09-30T19:05:58Z" finished-at="2016-09-30T19:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetOnPremiseCostByHypervisorId -->
+      </class> <!-- com.afour.automation.scripts.TestGetOnPremiseCostByHypervisorId_GetAPI_TC8 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+Name,HostID,IP Address,Host Vendor,Host Model,CPU Model,No of CPUs,CPU Cores,CPU Speed Ghz,MemoryGB,NIC Count,HBA Count,Total Speed GHz,Active VMs,Disk Capacity,Disk Free,Data Stores
+192.168.88.5,host-21,192.168.88.5,Apple Inc.,Macmini5 3,Intel(R) Core(TM) i7-2635QM CPU @ 2.00GHz,1,4,1.995,15.91,2,7,7.98,0,11924.0,7202.0,3
+192.168.88.7,host-27,192.168.88.7,Supermicro,X10DRL-i,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz,1,10,2.299,63.89,4,11,22.99,0,11065.0,6361.0,2
+192.168.88.9,host-55,192.168.88.9,Supermicro,X10SRH,Intel(R) Xeon(R) CPU E5-2650 v3 @ 2.30GHz,1,10,2.294,63.9,4,13,22.94,0,11214.0,6507.0,2
+192.168.88.3,host-10,192.168.88.3,Apple Inc.,Macmini5 3,Intel(R) Core(TM) i7-2635QM CPU @ 2.00GHz,1,4,1.995,15.91,2,6,7.98,0,11921.0,7217.0,3

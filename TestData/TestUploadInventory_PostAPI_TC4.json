@@ -1,0 +1,10 @@
+{
+  "target_url": "uploadInventory_url",
+  "username": "user14@gmail.com",
+  "password": "@four123",
+  "hyperVisorName":"APIUploadInvetory",
+  "uploadedHostFile":"Test_Host_info.csv",
+  "uploadedVmFile":"Test_VM_info.csv",
+  "uploadedDataStoreFile":"Test_Datastore_info.csv",
+  "uploadedHistoryFile":"Test_History_Yearly.csv"
+}

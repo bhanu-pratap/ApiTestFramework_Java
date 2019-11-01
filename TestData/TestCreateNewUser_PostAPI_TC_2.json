@@ -1,0 +1,10 @@
+{
+	"target_url":"createNewUser_target_url",
+    "email":"user17@gmail.com",
+    "password":"@four123",
+    "company":"Afour",
+    "phone":"9978987465",
+    "firstName":"user17",
+    "lastName":"Parker",
+    "address":"Pune"
+}

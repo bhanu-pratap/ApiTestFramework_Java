@@ -1,0 +1,8 @@
+Name, Type, Accessible,No of VM, Free Space, Used Space, Total Space, Host ID,URL
+ESX2_STORE1,VMFS,true,0,459.59,1.16,460.75,host-21,ds:///vmfs/volumes/50e8fd16-cf32ee44-da82-c82a14592a15/
+ESX2_STORE2,VMFS,true,0,447.07,18.43,465.5,host-21,ds:///vmfs/volumes/51d0f160-244663fa-ac16-a82066026a11/
+SUTTON-NFS01,NFS,true,21,6295.44,4702.81,10998.25,host-27,ds:///vmfs/volumes/d5eefab5-69d1e7fc/
+SESX3-SSD1,VMFS,true,0,66.05,0.95,67.0,host-27,ds:///vmfs/volumes/55b5cf3b-b1f3189f-cd86-001b211539d4/
+SESX4-SSD1,VMFS,true,1,212.51,3.49,216.0,host-55,ds:///vmfs/volumes/55b5d071-1a4b2484-fd89-0cc47a68a6b8/
+SESX1-STORE2,VMFS,true,0,464.54,0.96,465.5,host-10,ds:///vmfs/volumes/50d7da56-3e7b4e78-3161-c82a14578a87/
+SESX1-STORE1,VMFS,true,0,457.3,0.95,458.25,host-10,ds:///vmfs/volumes/55af03f0-3848d946-221e-c82a14578a87/

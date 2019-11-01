@@ -1,0 +1,9 @@
+{
+	"target_url": "MapOnPremVmsToPublicClouds_target_url",
+	"username": "user14@gmail.com",
+	"password": "@four123",
+	"cloudName":"AWS",
+	"rightSize": "false",
+	"cloudProvider":"AWS",
+	"chargeable":"false"
+}
